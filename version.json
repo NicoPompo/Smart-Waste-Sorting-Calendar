@@ -1,5 +1,5 @@
 {
-  "version": "1.0.3",
-  "firmware_url": "https://github.com/NicoPompo/Smart-Waste-Sorting-Calendar/releases/download/v1.0.3/trash-reminder-esp32c3.bin",
-  "notes": "Terza versione pubblica del firmware"
+  "version": "1.0.4",
+  "firmware_url": "https://github.com/NicoPompo/Smart-Waste-Sorting-Calendar/releases/download/v1.0.4/trash-reminder-esp32c3.bin",
+  "notes": "Quarta versione pubblica del firmware"
 }
